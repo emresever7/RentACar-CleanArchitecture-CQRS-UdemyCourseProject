@@ -1,6 +1,6 @@
-﻿# Rent-a-Car Application
+﻿# Rent-A-Car Application
 
-A modern, scalable Rent-a-Car management system built with .NET 9 and Clean Architecture principles.
+A modern, scalable Rent-A-Car management system built with .NET 9 and Clean Architecture principles.
 
 ## Overview
 
